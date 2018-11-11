@@ -1,0 +1,399 @@
+{
+  "VERB": {
+    "verb_root": {
+      "ar": "ar",
+      "ir": "ir",
+      "er": "er"
+    },
+    "verb_present1_s":{
+      "ar": "o",
+      "ir": "o",
+      "er": "o"
+    },
+    "verb_present1_p" :{
+      "ar": "amos",
+      "ir": "imos",
+      "er": "emos"
+    },
+    "verb_present2_s" :{
+      "ar": "as",
+      "ir": "es",
+      "er": "es"
+    },
+    "verb_present2_p" :{
+      "ar": "áis",
+      "ir": "ís",
+      "er": "éis"
+    },
+    "verb_present3_s":{
+      "ar": "a",
+      "ir": "e",
+      "er": "e"
+    },
+    "verb_present3_p":{
+      "ar": "an",
+      "ir": "en",
+      "er": "en"
+    },
+    "verb_imperfect1_s":{
+      "ar": "aba",
+      "ir": "ía",
+      "er": "ía"
+    },
+    "verb_imperfect1_p" :{
+      "ar": "ábamos",
+      "ir": "íamos",
+      "er": "íamos"
+    },
+    "verb_imperfect2_s" :{
+      "ar": "abas",
+      "ir": "ías",
+      "er": "ías"
+    },
+    "verb_imperfect2_p" :{
+      "ar": "abais",
+      "ir": "íais",
+      "er": "íais"
+    },
+    "verb_imperfect3_s":{
+      "ar": "aba",
+      "ir": "ía",
+      "er": "ía"
+    },
+    "verb_imperfect3_p":{
+      "ar": "aban",
+      "ir": "ían",
+      "er": "ían"
+    },
+    "verb_future1_s":{
+      "ar": "é",
+      "ir": "é",
+      "er": "é"
+    },
+    "verb_future1_p" :{
+      "ar": "emos",
+      "ir": "emos",
+      "er": "emos"
+    },
+    "verb_future2_s" :{
+      "ar": "ás",
+      "ir": "ás",
+      "er": "ás"
+    },
+    "verb_future2_p" :{
+      "ar": "éis",
+      "ir": "éis",
+      "er": "éis"
+    },
+    "verb_future3_s":{
+      "ar": "á",
+      "ir": "á",
+      "er": "á"
+    },
+    "verb_future3_p":{
+      "ar": "án",
+      "ir": "án",
+      "er": "án"
+    },
+    "verb_preterite1_s":{
+      "ar": "é",
+      "ir": "í",
+      "er": "í"
+    },
+    "verb_preterite1_p" :{
+      "ar": "amos",
+      "ir": "imos",
+      "er": "imos"
+    },
+    "verb_preterite2_s" :{
+      "ar": "aste",
+      "ir": "iste",
+      "er": "iste"
+    },
+    "verb_preterite2_p" :{
+      "ar": "asteis",
+      "ir": "isteis",
+      "er": "isteis"
+    },
+    "verb_preterite3_s":{
+      "ar": "ó",
+      "ir": "ió",
+      "er": "ió"
+    },
+    "verb_preterite3_p":{
+      "ar": "aron",
+      "ir": "ieron",
+      "er": "ieron"
+    },
+    "verb_conditional1_s":{
+      "ar": "ía",
+      "ir": "ía",
+      "er": "ía"
+    },
+    "verb_conditional1_p" :{
+      "ar": "íamos",
+      "ir": "íamos",
+      "er": "íamos"
+    },
+    "verb_conditional2_s" :{
+      "ar": "ías",
+      "ir": "ías",
+      "er": "ías"
+    },
+    "verb_conditional2_p" :{
+      "ar": "íais",
+      "ir": "íais",
+      "er": "íais"
+    },
+    "verb_conditional3_s":{
+      "ar": "ía",
+      "ir": "ía",
+      "er": "ía"
+    },
+    "verb_conditional3_p":{
+      "ar": "ían",
+      "ir": "ían",
+      "er": "ían"
+    },
+     "verb_present_prefect1_s":{
+      "ar": "+he {PP}",
+      "ir": "+he {PP}",
+      "er": "+he {PP}"
+    },
+    "verb_present_prefect1_p" :{
+      "ar": "+hemos {PP}",
+      "ir": "+hemos {PP}",
+      "er": "+hemos {PP}"
+    },
+    "verb_present_prefect2_s" :{
+      "ar": "+has {PP}",
+      "ir": "+has {PP}",
+      "er": "+has {PP}"
+    },
+    "verb_present_prefect2_p" :{
+      "ar": "+habéis {PP}",
+      "ir": "+habéis {PP}",
+      "er": "+habéis {PP}"
+    },
+    "verb_present_prefect3_s":{
+      "ar": "+ha {PP}",
+      "ir": "+ha {PP}",
+      "er": "+ha {PP}"
+    },
+    "verb_present_perfect3_p":{
+      "ar": "+han {PP}",
+      "ir": "+han {PP}",
+      "er": "+han {PP}"
+    },
+     "verb_pluperf1_s":{
+      "ar": "+había {PP}",
+      "ir": "+había {PP}",
+      "er": "+había {PP}"
+    },
+    "verb_pluperf1_p":{
+      "ar": "+habíamos {PP}",
+      "ir": "+habíamos {PP}",
+      "er": "+habíamos {PP}"
+    },
+    "verb_pluperf2_s":{
+      "ar": "+habías {PP}",
+      "ir": "+habías {PP}",
+      "er": "+habías {PP}"
+    },
+    "verb_pluperf2_p":{
+      "ar": "+habíais {PP}",
+      "ir": "+habíais {PP}",
+      "er": "+habíais {PP}"
+    },
+    "verb_pluperf3_s":{
+      "ar": "+había {PP}",
+      "ir": "+había {PP}",
+      "er": "+había {PP}"
+    },
+     "verb_pluperf3_p":{
+      "ar": "+habían {PP}",
+      "ir": "+habían {PP}",
+      "er": "+habían {PP}"
+    },
+    "verb_future_prefect1_s":{
+      "ar": "+habré {PP}",
+      "ir": "+habré {PP}",
+      "er": "+habré {PP}"
+    },
+    "verb_future_prefect1_p" :{
+      "ar": "+habremos {PP}",
+      "ir": "+habremos {PP}",
+      "er": "+habremos {PP}"
+    },
+    "verb_future_prefect2_s" :{
+      "ar": "+habrás {PP}",
+      "ir": "+habrás {PP}",
+      "er": "+habrás {PP}"
+    },
+    "verb_future_prefect2_p" :{
+      "ar": "+habréis {PP}",
+      "ir": "+habréis {PP}",
+      "er": "+habréis {PP}"
+    },
+    "verb_future_prefect3_s":{
+      "ar": "+habrá {PP}",
+      "ir": "+habrá {PP}",
+      "er": "+habrá {PP}"
+    },
+    "verb_future_perfect3_p":{
+      "ar": "+habrán {PP}",
+      "ir": "+habrán {PP}",
+      "er": "+habrán {PP}"
+    },
+    "verb_conditional_perfect1_s": {
+      "ar": "+habría {PP}",
+      "ir": "+habría {PP}",
+      "er": "+habría {PP}"
+    },
+    "verb_conditional_perfect1_p": {
+      "ar": "+habríamos {PP}",
+      "ir": "+habríamos {PP}",
+      "er": "+habríamos {PP}"
+    },
+    "verb_conditional_perfect2_s": {
+      "ar": "+habrías {PP}",
+      "ir": "+habrías {PP}",
+      "er": "+habrías {PP}"
+    },
+    "verb_conditional_perfect2_p": {
+      "ar": "+habríais {PP}",
+      "ir": "+habríais {PP}",
+      "er": "+habríais {PP}"
+    },
+    "verb_conditional_perfect3_s": {
+      "ar": "+habría {PP}",
+      "ir": "+habría {PP}",
+      "er": "+habría {PP}"
+    },
+    "verb_conditional_perfect3_p": {
+      "ar": "+habrían {PP}",
+      "ir": "+habrían {PP}",
+      "er": "+habrían {PP}"
+    },
+    "verb_present_subjunctive1_s": {
+      "ar": "e",
+      "ir": "a",
+      "er": "a"
+    },
+    "verb_present_subjunctive1_p": {
+      "ar": "emos",
+      "ir": "amos",
+      "er": "amos"
+    },
+    "verb_present_subjunctive2_s": {
+      "ar": "es",
+      "ir": "as",
+      "er": "as"
+    },
+    "verb_present_subjunctive2_p": {
+      "ar": "éis",
+      "ir": "áis",
+      "er": "áis"
+    },
+    "verb_present_subjunctive3_s": {
+      "ar": "e",
+      "ir": "a",
+      "er": "a"
+    },
+    "verb_present_subjunctive3_p": {
+      "ar": "en",
+      "ir": "an",
+      "er": "an"
+    },
+    "verb_imperfect_subj1_s": {
+      "ar": "ara",
+      "ir": "ira",
+      "er": "era"
+    },
+    "verb_imperfect_subj1_p": {
+      "ar": "áramos",
+      "ir": "íramos",
+      "er": "éramos"
+    },
+    "verb_imperfect_subj2_s": {
+      "ar": "aras",
+      "ir": "iras",
+      "er": "eras"
+    },
+    "verb_imperfect_subj2_p": {
+      "ar": "arais",
+      "ir": "irais",
+      "er": "erais"
+    },
+    "verb_imperfect_subj3_s": {
+      "ar": "ara",
+      "ir": "ira",
+      "er": "era"
+    },
+    "verb_imperfect_subj3_p": {
+      "ar": "aran",
+      "ir": "iran",
+      "er": "eran"
+    },
+    "verb_present_perf_subj1_s": {
+      "ar": "+haya {PP}",
+      "ir": "+haya {PP}",
+      "er": "+haya {PP}"
+    },
+    "verb_present_perf_subj1_p": {
+      "ar": "+hayamos {PP}",
+      "ir": "+hayamos {PP}",
+      "er": "+hayamos {PP}"
+    },
+    "verb_present_perf_subj2_s": {
+      "ar": "+hayas {PP}",
+      "ir": "+hayas {PP}",
+      "er": "+hayas {PP}"
+    },
+    "verb_present_perf_subj2_p": {
+      "ar": "+hayáis {PP}",
+      "ir": "+hayáis {PP}",
+      "er": "+hayáis {PP}"
+    },
+    "verb_present_perf_subj3_s": {
+      "ar": "+haya {PP}",
+      "ir": "+haya {PP}",
+      "er": "+haya {PP}"
+    },
+    "verb_present_perf_subj3_p": {
+      "ar": "+hayan {PP}",
+      "ir": "+hayan {PP}",
+      "er": "+hayan {PP}"
+    },
+    "verb_pluperf_subj1_s": {
+      "ar": "+hubiera {PP}",
+      "ir": "+hubiera {PP}",
+      "er": "+hubiera {PP}"
+    },
+    "verb_pluperf_subj1_p": {
+      "ar": "+hubiéramos {PP}",
+      "ir": "+hubiéramos {PP}",
+      "er": "+hubiéramos {PP}"
+    },
+    "verb_pluperf_subj2_s": {
+      "ar": "+hubieras {PP}",
+      "ir": "+hubieras {PP}",
+      "er": "+hubieras {PP}"
+    },
+    "verb_pluperf_subj2_p": {
+      "ar": "+hubierais {PP}",
+      "ir": "+hubierais {PP}",
+      "er": "+hubierais {PP}"
+    },
+    "verb_pluperf_subj3_s": {
+      "ar": "+hubiera {PP}",
+      "ir": "+hubiera {PP}",
+      "er": "+hubiera {PP}"
+    },
+    "verb_pluperf_subj3_p": {
+      "ar": "+hubieran {PP}",
+      "ir": "+hubieran {PP}",
+      "er": "+hubieran {PP}"
+    }
+  }
+}
